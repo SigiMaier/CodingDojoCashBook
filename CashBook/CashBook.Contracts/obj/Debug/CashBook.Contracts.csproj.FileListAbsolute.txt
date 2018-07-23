@@ -1,0 +1,5 @@
+D:\3_Dev\CodingDojo\ApplicationKata\CashBook\CodingDojoCashBook\CashBook\CashBook.Contracts\bin\Debug\CashBook.Contracts.dll
+D:\3_Dev\CodingDojo\ApplicationKata\CashBook\CodingDojoCashBook\CashBook\CashBook.Contracts\bin\Debug\CashBook.Contracts.pdb
+D:\3_Dev\CodingDojo\ApplicationKata\CashBook\CodingDojoCashBook\CashBook\CashBook.Contracts\obj\Debug\CashBook.Contracts.csproj.CoreCompileInputs.cache
+D:\3_Dev\CodingDojo\ApplicationKata\CashBook\CodingDojoCashBook\CashBook\CashBook.Contracts\obj\Debug\CashBook.Contracts.dll
+D:\3_Dev\CodingDojo\ApplicationKata\CashBook\CodingDojoCashBook\CashBook\CashBook.Contracts\obj\Debug\CashBook.Contracts.pdb

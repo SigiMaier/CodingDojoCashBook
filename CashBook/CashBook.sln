@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27703.2000
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashBook", "CashBook\CashBook.csproj", "{A6645827-29FB-4C00-8A3D-7793E7DF127B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashBook.Tests", "CashBook.Tests\CashBook.Tests.csproj", "{54A80E6C-620A-4B80-9DD8-2164E360C3F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CashBook.Contracts", "CashBook.Contracts\CashBook.Contracts.csproj", "{CCF964C6-4709-4208-A942-8E783AE1CE4E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{A6645827-29FB-4C00-8A3D-7793E7DF127B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6645827-29FB-4C00-8A3D-7793E7DF127B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6645827-29FB-4C00-8A3D-7793E7DF127B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54A80E6C-620A-4B80-9DD8-2164E360C3F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54A80E6C-620A-4B80-9DD8-2164E360C3F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54A80E6C-620A-4B80-9DD8-2164E360C3F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54A80E6C-620A-4B80-9DD8-2164E360C3F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCF964C6-4709-4208-A942-8E783AE1CE4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCF964C6-4709-4208-A942-8E783AE1CE4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCF964C6-4709-4208-A942-8E783AE1CE4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCF964C6-4709-4208-A942-8E783AE1CE4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

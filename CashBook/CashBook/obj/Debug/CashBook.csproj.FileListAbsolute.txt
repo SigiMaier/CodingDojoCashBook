@@ -1,0 +1,10 @@
+D:\3_Dev\CodingDojo\ApplicationKata\CashBook\CodingDojoCashBook\CashBook\CashBook\bin\Debug\CashBook.exe.config
+D:\3_Dev\CodingDojo\ApplicationKata\CashBook\CodingDojoCashBook\CashBook\CashBook\bin\Debug\CashBook.exe
+D:\3_Dev\CodingDojo\ApplicationKata\CashBook\CodingDojoCashBook\CashBook\CashBook\bin\Debug\CashBook.pdb
+D:\3_Dev\CodingDojo\ApplicationKata\CashBook\CodingDojoCashBook\CashBook\CashBook\bin\Debug\CashBook.Contracts.dll
+D:\3_Dev\CodingDojo\ApplicationKata\CashBook\CodingDojoCashBook\CashBook\CashBook\bin\Debug\CashBook.Contracts.pdb
+D:\3_Dev\CodingDojo\ApplicationKata\CashBook\CodingDojoCashBook\CashBook\CashBook\obj\Debug\CashBook.csprojAssemblyReference.cache
+D:\3_Dev\CodingDojo\ApplicationKata\CashBook\CodingDojoCashBook\CashBook\CashBook\obj\Debug\CashBook.csproj.CoreCompileInputs.cache
+D:\3_Dev\CodingDojo\ApplicationKata\CashBook\CodingDojoCashBook\CashBook\CashBook\obj\Debug\CashBook.csproj.CopyComplete
+D:\3_Dev\CodingDojo\ApplicationKata\CashBook\CodingDojoCashBook\CashBook\CashBook\obj\Debug\CashBook.exe
+D:\3_Dev\CodingDojo\ApplicationKata\CashBook\CodingDojoCashBook\CashBook\CashBook\obj\Debug\CashBook.pdb
